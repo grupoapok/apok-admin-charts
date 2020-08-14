@@ -1,5 +1,5 @@
 {
-  "name": "apok-admin-charts",
+  "name": "@apok/admin-charts",
   "version": "1.0.0-rc.1",
   "description": "Chart component for VueJS Apok-admin template",
   "main": "index.js",
